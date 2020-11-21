@@ -1,2 +1,2 @@
-# gilded_rose
-gilded rose
+# Gilded Rose
+Gilded Rose
